@@ -1,0 +1,17 @@
+{
+  "name": "loadSample2Buff",
+  "version": "1.0.0",
+  "description": "wrapper for loading samples into web audio",
+  "main": "index.js",
+  "scripts": {
+    "test": "lol"
+  },
+  "keywords": [
+    "web",
+    "audio",
+    "sample",
+    "arrayBuffer"
+  ],
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
+  "license": "MIT"
+}

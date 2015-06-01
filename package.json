@@ -1,6 +1,6 @@
 {
   "name": "load-sample-2-buff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wrapper for loading samples into web audio",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,13 @@
     "arrayBuffer"
   ],
   "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coleww/load-sample-2-buff.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coleww/load-sample-2-buff/issues"
+  },
+  "homepage": "https://github.com/coleww/load-sample-2-buff"
 }

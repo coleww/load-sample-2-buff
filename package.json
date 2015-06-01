@@ -1,5 +1,5 @@
 {
-  "name": "loadSample2Buff",
+  "name": "load-sample-2-buff",
   "version": "1.0.0",
   "description": "wrapper for loading samples into web audio",
   "main": "index.js",

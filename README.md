@@ -1,9 +1,9 @@
-loadSample2Buff
+load-sample-2-buff
 -----------------------
 
 ### INSTALL IT
 
-`npm install loadSample2Buff`
+`npm install load-sample-2-buff`
 
 ### THE API
 
@@ -19,7 +19,7 @@ and passes the result to the callback.
 (using [openmusic-sample-player](https://github.com/openmusic/sample-player))
 
 ```
-    var loadSample2Buff = require('loadSample2Buff')
+    var loadSample2Buff = require('load-sample-2-buff')
 
     var SamplePlayer = require('openmusic-sample-player')
 
